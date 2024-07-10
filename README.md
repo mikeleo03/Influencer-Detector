@@ -67,14 +67,17 @@ Influencer Detector dibuat **berbasis website**. Bahasa dan *Framework* dibebask
 - Seperti yang telah disampaikan di awal, bahasa dan *framework* yang digunakan untuk implementasi dibebaskan.
 - Berikut adalah daftar halaman **minimal** yang perlu untuk diimplementasikan.
     - **Halaman Beranda (*Dashboard*)**
-    Halaman ini berisi data 10 *user*s dengan nilai influensi paling tinggi. Pastikan bagian ini diperbaharui secara otomatis jika terjadi perubahan nilai influensi akibat perubahan nilai faktor influensi.
+      
+        Halaman ini berisi data 10 *user*s dengan nilai influensi paling tinggi. Pastikan bagian ini diperbaharui secara otomatis jika terjadi perubahan nilai influensi akibat perubahan nilai faktor influensi.
     - **Halaman Manajemen *User***
-    Halaman ini berisi komponen yang digunakan untuk melakukan seluruh mekanisme manajemen *user* seperti yang dijelaskan pada poin [Manajemen *User*](#1-manajemen-*user*). 
+      
+        Halaman ini berisi komponen yang digunakan untuk melakukan seluruh mekanisme manajemen *user* seperti yang dijelaskan pada poin [Manajemen *User*](#1-manajemen-user). 
     
         Pada halaman ini juga dapat ditampilkan data seluruh *user* yang terdaftar pada aplikasi, tetapi Anda boleh membuatnya pada halaman yang berbeda.
 
     - **Halaman Manajemen Cuitan (Tweets)**
-    Halaman ini berisi komponen yang digunakan untuk melakukan seluruh mekanisme manajemen cuitan seperti yang dijelaskan pada poin [Manajemen Cuitan](#2-manajemen-cuitan-tweets).
+    
+        Halaman ini berisi komponen yang digunakan untuk melakukan seluruh mekanisme manajemen cuitan seperti yang dijelaskan pada poin [Manajemen Cuitan](#2-manajemen-cuitan-tweets).
     
         Pada halaman ini juga dapat ditampilkan data seluruh cuitan yang terdaftar pada aplikasi, tetapi Anda boleh membuatnya pada halaman yang berbeda. Berikut adalah salah satu inspirasi tampilan cuitan yang dibuat menjorok jika merupakan tanggapan dari cuitan lain.
         <br>
@@ -87,7 +90,8 @@ Influencer Detector dibuat **berbasis website**. Bahasa dan *Framework* dibebask
         </div>
 
     - **Halaman Visualisasi Graf**
-    Halaman ini akan berisi visualisasi graf hasil kalkulasi dengan [Eigenvector Centrality](#3-perhitungan-eigenvector-centrality) sesuai dengan poin [Visualisasi Graf](#4-visualisasi-graf). Bagian ini juga dapat disatukan dengan Halaman Beranda.
+    
+        Halaman ini akan berisi visualisasi graf hasil kalkulasi dengan [Eigenvector Centrality](#3-perhitungan-eigenvector-centrality) sesuai dengan poin [Visualisasi Graf](#4-visualisasi-graf). Bagian ini juga dapat disatukan dengan Halaman Beranda.
 - Keindahan tampilan antarmuka (UI) dan pengalaman pengguna selama menggunakan antarmuka (UX) **menjadi bagian dari penilaian** (pembuat Task menyukai *Frontend*). Jadikan kesempatan ini bagi Anda untuk mempelajari *Frontend Web Development* jauh lebih baik lagi.
 - Kembangkan sisi *Frontend* dengan arsitektur kode yang baik. Bagian ini tidak menjadi bagian dari penilaian, tetapi pastikan bahwa arsitektur kode yang dibangun mudah dibaca, bisa dikembangkan tanpa perlu banyak mengubah kode (*loosely coupled*), dan tetap menghasilkan tampilan yang menarik serta intuitif.
 
@@ -172,4 +176,4 @@ Tidak semua influensi merupakan hal yang baik. Oleh sebab itu, buatlah sebuah fi
 
 ![Screenshot](./img/nilai.png)
 
-### **Good Luck and Have Fun! it's not worth it if you're not having fun :D**
+### **Good Luck and Have Fun! it's not worth it if you're not having fun 😄**
