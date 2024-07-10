@@ -9,7 +9,7 @@ Di era digital ini, media sosial telah menjadi wadah utama untuk komunikasi dan 
 Dengan menggunakan konsep **Eigenvector Centrality**, Influencer Detector dibangun sebagai aplikasi yang bertujuan untuk menemukan individu yang memiliki pengaruh terbesar dalam sebuah jaringan sosial. Eigenvector Centrality tidak hanya mengukur seberapa terhubungnya suatu node, tetapi juga seberapa penting koneksi tersebut, sehingga memberikan gambaran yang lebih akurat tentang siapa yang benar-benar berpengaruh.
 
 <div align=center>
-<img src="./img/img1.jpg" width="400">
+<img src="./img/img1.jpg" width="600">
 <br>
   <b>Fig 1.</b> Influencer dan Pengaruhnya bagi Sekitarnya.
 <br>
@@ -80,7 +80,7 @@ Influencer Detector dibuat **berbasis website**. Bahasa dan *Framework* dibebask
         <br>
         
         <div align=center>
-            <img src="./img/img2.jpg" width="300">
+            <img src="./img/img2.jpg" width="600">
             <br>
                 <b>Fig 2.</b> Referensi Tampilan Daftar Cuitan.
             <br>
@@ -172,4 +172,4 @@ Tidak semua influensi merupakan hal yang baik. Oleh sebab itu, buatlah sebuah fi
 
 ![Screenshot](./img/nilai.png)
 
-#### **Good Luck and Have Fun! it's not worth it if you're not having fun :D**
+### **Good Luck and Have Fun! it's not worth it if you're not having fun :D**
